@@ -1,0 +1,34 @@
+qr_srgan_project/
+│
+├── data/
+│   ├── hr_images/                   # Thư mục chứa ảnh độ phân giải cao (High Resolution)
+│   ├── lr_images/                   # Thư mục chứa ảnh độ phân giải thấp (Low Resolution)
+│   └── qr_codes/                    # Thư mục chứa ảnh mã QR đầu vào và đầu ra
+│       ├── input/                   # Ảnh mã QR độ phân giải thấp ban đầu
+│       └── output/                  # Ảnh mã QR được xử lý bởi SRGAN
+│
+├── models/
+│   ├── generator.pth                # Trọng số của mô hình Generator sau khi huấn luyện
+│   └── discriminator.pth            # Trọng số của mô hình Discriminator sau khi huấn luyện
+│
+├── src/
+│   ├── models.py                    # Định nghĩa mô hình Generator và Discriminator
+│   ├── train.py                     # Script để huấn luyện SRGAN
+│   ├── test.py                      # Script để kiểm tra mô hình với dữ liệu mới
+│   ├── super_resolve.py             # Script để xử lý ảnh mã QR bằng SRGAN
+│   └── qr_decoder.py                # Script để giải mã ảnh QR sau khi đã xử lý
+│
+├── notebooks/
+│   ├── data_preparation.ipynb       # Notebook để chuẩn bị dữ liệu LR-HR
+│   ├── training_sgan.ipynb          # Notebook để huấn luyện SRGAN
+│   └── testing_qr_srgan.ipynb       # Notebook để thử nghiệm SRGAN với ảnh QR thực tế
+│
+├── utils/
+│   ├── data_utils.py                # Tiện ích để xử lý và chuẩn bị dữ liệu
+│   ├── model_utils.py               # Tiện ích để load và lưu mô hình
+│   ├── image_utils.py               # Tiện ích để xử lý ảnh
+│   └── qr_utils.py                  # Tiện ích để giải mã QR code
+│
+├── requirements.txt                 # Danh sách các thư viện cần thiết cho dự án
+├── README.md                        # Tài liệu mô tả dự án và cách sử dụng
+└── run.sh                           # Script shell để chạy toàn bộ pipeline (tùy chọn)
