@@ -1,0 +1,5 @@
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_0.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_20.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_16.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_1.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_3.jpg

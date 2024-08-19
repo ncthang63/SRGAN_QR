@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_13.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_8.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_19.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_11.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_12.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_5.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_2.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_6.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_4.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_10.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_17.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_9.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_15.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_18.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_21.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_7.jpg
+C:\Users\Acer\OneDrive\Desktop\Computer vision\GAN_QR\data\hr_img\img_14.jpg
